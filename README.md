@@ -23,9 +23,9 @@ yes | pkg install wget nano
 
 ## [ Wget XMRigCC ]
 ```
-wget https://github.com/zcdk077/xmrigCC/releases/download/3.4.3-dev/XMRigCC-3.4.2-Android-arm64.zip
-unzip XMRigCC-3.4.2-Android-arm64.zip
-rm -r XMRigCC-3.4.2-Android-arm64.zip
+wget https://github.com/zcdk077/xmrigCC/releases/download/3.4.3-dev/XMRigCC-3.4.3-Android-arm64.zip
+unzip XMRigCC-3.4.3-Android-arm64.zip
+rm -r XMRigCC-3.4.3-Android-arm64.zip
 ```
 
 ## [ Edit Wallet ]
