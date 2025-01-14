@@ -1,0 +1,2 @@
+# xmrigCC
+xmrigCC for Android
